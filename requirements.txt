@@ -15,3 +15,4 @@ requests
 python-decouple
 gunicorn
 django-heroku
+opencv-python-headless==4.2.0.32
